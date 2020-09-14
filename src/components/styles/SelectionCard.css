@@ -1,0 +1,11 @@
+#card {
+    min-width: 15rem;
+    margin-top: 2rem;
+    flex-basis: 27%;
+    border: 1px transparent solid;
+}
+
+#card:hover {
+    cursor: pointer;
+    border: 1px #4fc3f7 solid;
+}

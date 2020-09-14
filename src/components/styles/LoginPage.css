@@ -1,0 +1,45 @@
+#loginPageTitle {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+#loginPageSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
+
+#loginPageSection #loginCard {
+    width: 30%;
+    height: 35%;
+}
+
+#loginPageSection #loginCard form .textField {
+    margin-bottom: 1rem;
+}
+
+#loginPageSection #loginCardContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 10%;
+}
+
+#loginPageSection #loginCard #loginCardActions {
+    margin: 1rem 10%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#loginPageSection #loginCard button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#loginPageAccordian {
+    width: 30%;
+    margin: auto;
+    margin-top: 1rem;
+}
